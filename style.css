@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.allHeadings {
+    color: saddlebrown
+}
+
+footer h5 {
+    color: brown;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-weight: bold;
+}
